@@ -1,0 +1,48 @@
+*, html {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: "微软雅黑";
+}
+body img,a{
+	border:0px;
+	padding:0px;
+}
+a {
+	display: inline-block;
+    color: #000;
+}
+body p{
+	margin:0px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div.pp{padding:0px;}
+.now_position {
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.now_position a {
+    color: #95be1f;
+    font-weight: bold;
+}
+.now_position a:hover{
+	text-decoration: underline;
+}
+#big>img{
+    width:11%;
+    height:auto;
+    padding:5px;
+    margin:0px;
+    border:0px;
+}

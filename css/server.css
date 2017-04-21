@@ -1,0 +1,101 @@
+
+div#product_header a{
+	color: #95be1f;
+	font-weight: bold;
+}
+div.pdc{
+	border: 1px solid #ccc;
+}
+div#pdc_tab .d2{
+	border: 1px solid #ccc;
+	margin-top: 5px;
+}
+.detail{
+	color: #999;
+	font-size: 1.2em;
+	margin-top: 10px;
+}
+.detail ul li{
+	height: 50px;
+	line-height: 50px;
+}
+.tab_button button{
+	width: 70px;
+	height: 30px;
+	margin-right: 15px;
+	color: #333;
+	font-size: 1.2em;
+	border: 2px solid #95be1f;
+    border-radius: 5px;
+	background:#fefefe;
+}
+.tab_button button.active{
+	background:#95be1f;
+	color:#fff;
+}
+.tab_button button:hover{
+	background:#95be1f;
+	color:#fff;
+}
+/*tab切换下的小绿条*/
+.tab_row2 span{
+	width:2px;
+	height:20px;
+	background:#96bf1f;
+	margin-bottom:-4px;
+	}
+.tab_row2 #s1{
+	display:inline-block;
+	margin-left:35px;
+}
+.tab_row2 #s2{
+	display:inline-block;
+    margin-left:115px;
+}
+.tab_row2 #s3{
+	display:inline-block;
+    margin-left:205px;
+}
+/*点线开始*/
+.tab_row3 .dot{
+	width:10px;
+	height:10px;
+	background:#96bf1f;
+	border-radius:5px;
+	position:absolute;
+	z-index:9;
+}
+.tab_row3 #dot1{
+	margin-top:-5px;
+}
+
+.tab_row3 #line{
+	margin-top:-2px;
+	height:2px;
+	background:#96bf1f;
+}
+.tab_row3 #dot2{
+	clear:both;
+	position:relative;
+	margin-top:-5px;
+}
+#servers p img{width: 100%}
+#servers p.greencolor{
+	color:rgb(146, 208, 80);
+	font-size: 18px;
+	font-weight: bold;
+}
+#servers p{
+	font-size:14px;
+	color:rgb(127, 127, 127);
+
+}
+#servers .question{
+	padding: 0;
+	padding-bottom: 50px;
+}
+#servers p.question_q{
+	color:rgb(127, 127, 127);
+	font-size: 18px;
+	font-weight: bold;
+}

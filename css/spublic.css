@@ -1,0 +1,41 @@
+* {margin: 0px; padding: 0px; font-family: "微软雅黑"; list-style-type: none;}
+html {margin: 0px; padding: 0px; font-family: "微软雅黑"; list-style-type: none;}
+p {margin: 0px;}
+a {border: 0px currentColor; border-image: none;}
+img {border: 0px currentColor; border-image: none;}
+a {color: rgb(0, 0, 0);}
+a:focus {color: rgb(149, 191, 31); text-decoration: none;}
+a:hover {color: rgb(149, 191, 31); text-decoration: none;}
+body {line-height: 21px; font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, Arial, san-serif; font-size: 11.5px;}
+.current_page_item {width: 90px;}
+.page_item {display: block;}
+div.container{padding:15px;}
+.mnav {width: 60%; height: auto; right: 0px; display: none; position: absolute; z-index: 999;}
+.mnav ul {margin: -1px; border: 0px currentColor; border-image: none;}
+.mnav li {margin: -1px; border: 0px currentColor; border-image: none;}
+.mnav a {margin: -1px; border: 0px currentColor; border-image: none;}
+.mnav ul {font-size: 1em; list-style-type: none;}
+.mnav ul li {background: rgb(129, 129, 129); width: 100%; height: auto; text-align: center;}
+.mnav ul li a {width: 100%; height: 50px; text-align: center; color: rgb(255, 255, 255); line-height: 50px; text-decoration: none; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid; display: inline-block;}
+.mnav ul li a:hover {background-color: rgb(204, 204, 204);}
+.nav2j {display: none;}
+.nav2j li a {height: 70px; line-height: 70px;}
+#nav2 {text-align: center; float: left;}
+#nav2 ul {margin: 0px; padding: 0px; line-height: 50px; position: relative; z-index: 5;}
+#nav2 a {padding: 0px 21px 0px 0px; text-align: center; text-decoration: none; float: left; display: block; position: relative; z-index: 35;}
+#nav2 ul a {line-height: 40px;}
+#nav2 li {height: 40px; line-height: 40px; float: left; position: relative; z-index: 20;}
+#nav2 li li {margin-top: 0px; border-left-color: currentColor; border-left-width: medium; border-left-style: none;}
+#nav2 ul {left: -1px; top: 38px; width: 130px; font-size: 13px; display: none; position: absolute;}
+#nav2 li ul a {padding: 0px 21px; width: 130px; height: auto; text-align: left; float: left;}
+#nav2 ul ul {top: auto; border-top-color: currentColor; border-top-width: medium; border-top-style: none;}
+#nav2 li ul ul {left: 130px; top: 0px;}
+#nav2 li:hover ul ul {display: none;}
+#nav2 li:hover ul ul ul {display: none;}
+#nav2 li:hover ul ul ul ul {display: none;}
+#nav2 li:hover ul {display: block;}
+#nav2 li li:hover ul {display: block;}
+#footer {background: rgb(149, 190, 31); padding-top: 10px; padding-bottom: 10px;}
+#footer a{color: rgb(255, 255, 255);}
+#footer a:hover{color: rgb(255, 255, 255);}
+

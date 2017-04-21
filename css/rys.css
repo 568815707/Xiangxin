@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors vfasky (vfasky@gmail.com)
+ * @date    2017-04-10 20:54:55
+ * @version $Id$
+ */
+
+#myTab li{
+    float: left;
+
+}
+#myTab li a img{
+    width: 100%;
+    background-color: #ccc;
+}
+.bagc{
+    float: left;
+}
+.ccp{ 
+    overflow: hidden;
+    width: 150px;
+    height: 145px;
+    background-image: url(../img/icon.png);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    
+}
+.ccp1{
+    
+    background-position: 40px 15px;
+    
+}
+.ccp2{
+    background-position: 40px -145px;
+    
+}
+.ccp3{
+    background-position: 40px -290px;
+    
+}
+#myTabContent{
+    float: left;
+    height: 500px;
+}
+.bgeee{
+    background-color: #eeeeee;
+}
+.dw{
+    position: absolute;
+    margin-top:200px;
+    font-size: 50px;
+}
+.dwl{left: 20px;}
+.dwr{right: 20px;}

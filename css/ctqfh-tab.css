@@ -1,0 +1,131 @@
+*, html {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: "微软雅黑";
+}
+body img,a{
+	border:0px;
+	padding:0px;
+}
+a {
+	display: inline-block;
+    color: #000;
+}
+body p{
+	margin:0px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.now_position {
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.now_position a {
+    color: #95be1f;
+    font-weight: bold;
+}
+.now_position a:hover{
+	text-decoration: underline;
+}
+.tab_row1 span.active, .tab_row1 span:hover {
+    color: #fff;
+    background: #96bf1f;
+}
+.tab_row1 span {
+    display: inline-block;
+    width: 90px;
+    height: 30px;
+    line-height: 27px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    background: #fff;
+    border: 2px solid #96bf1f;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+/*tab切换键开始*/
+.tab_row2 #s1 {
+    display: inline-block;
+    margin-left: 45px;
+}
+.tab_row2 span {
+    /* display: inline-block; */
+    width: 2px;
+    height: 20px;
+    background: #96bf1f;
+    margin-bottom: -4px;
+    /* margin-left: 110px; */
+}
+.tab_row2 #s2 {
+    display: inline-block;
+    margin-left: 145px;
+}
+.tab_row2 #s3 {
+    display: inline-block;
+    margin-left: 245px;
+}
+.tab_row2 #s4 {
+    display: inline-block;
+    margin-left: 355px;
+}
+.tab_row2 #s5 {
+    display: inline-block;
+    margin-left: 455px;
+}
+.tab_row2 #s6 {
+    display: inline-block;
+    margin-left: 565px;
+}
+/*tab切换键结束*/
+.tab_row3 #dot1 {
+    margin-top: -5px;
+    /* text-align: right; */
+}
+.tab_row3 .dot {
+    width: 10px;
+    height: 10px;
+    background: #96bf1f;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 9;
+}
+.tab_row3 #line {
+    margin-top: -2px;
+    height: 2px;
+    background: #96bf1f;
+}
+.tab_row3 #dot2 {
+    clear: both;
+    position: relative;
+    margin-top: -5px;
+}
+.pull-left {
+    float: left!important;
+}
+.pull-right {
+    float: right!important;
+}
+.top_con {
+    border: #ccc solid 1px;
+    padding: 10px;
+}
+.top_con a,.top_con2 a {
+    display: block;
+    background: #ccc;
+    color: #333;
+    float: right;
+    text-align: center;
+    width: 40%;
+}

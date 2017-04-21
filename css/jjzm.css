@@ -1,0 +1,71 @@
+h2,div.sp{
+	color:#999;
+}
+div.col-lg-12.til{
+	text-align:left;
+}
+div.col-lg-12.til p{
+	height:3em;
+	line-height:3em;
+	margin-bottom:5px;
+}
+div.col-lg-12.til p a{
+	color:#96bf1f;
+} 
+div.col-lg-12.til p a:hover{
+	text-decoration: underline;
+}
+div.banner img,div.imgs img{
+    width:100%;
+    height:auto;
+}
+/*div.imgs img{
+	width:100%;
+	height:auto;
+}*/
+div.imgs{
+	width:100%;
+	/*height:300px;*/
+	overflow:hidden;
+	position:relative;
+
+	
+}
+div.imgs h4{
+	height:10%;
+	line-height:10%;
+	border-bottom:1px solid #fff;
+}
+div.imgs div.imgs-tit{
+	width:100%;
+	position:absolute;
+	background-color:rgba(51,51,51,0.5);
+	height:80%;
+	top:90%;
+}
+div.imgs h4 a,div.imgs div.imgs-tit span a{
+	color:#ddd;
+}
+div.gundong{
+	width:100%;
+	height:200px;
+	overflow:hidden;
+}
+#ul-img{
+	width:1260px;
+	height:200px;
+	overflow:hidden;
+	position:absolute;
+}
+/*@media screen and (min-width: ){}*/
+#ul-img li{
+	float:left;
+}
+#ul-img li img{
+	border:1px solid #999;
+	width:198px;
+	height:198px;
+	margin-left:5px;
+	margin-right:5px;
+}
+

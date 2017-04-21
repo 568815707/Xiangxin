@@ -1,0 +1,98 @@
+#center{
+	width: 100%;
+	height: auto;
+	margin:0 auto;
+}
+#p1{
+	text-align: left;
+	font-size: 13px;
+	font-weight: bold;
+}
+#p1 span{
+	color: #96bf1f;
+}
+#ul1{
+	margin-top: 20px;
+	margin-left: -10px;
+}
+#ul1 li{
+	float: left;
+	margin-left: 10px;
+}
+#ul1 li a{
+	width: 60px;
+	height: auto;
+	border:solid 1px #96bf1f;
+	border-radius: 5px;
+	padding:3px 2px;
+}
+#ul1 li a:hover{
+    color: #fff;
+    background-color: #96bf1f;
+}
+#ul1 li a.a1{
+	color: #fff;
+    background-color: #96bf1f;
+}
+span.sp1{
+	width: 2px;
+	height: 20px;
+	border:solid 1px #96bf1f;
+}
+#div2{
+	margin-top: 0px;
+}
+#div3{
+	 height: 2px;
+	 background-color: #96bf1f;
+	 margin-top: -2px;
+	 padding:0;
+}
+#div3 span:nth-child(1){
+	margin-top: -4px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #96bf1f;
+	display: inline-block;
+	float: left;
+}
+#div3 span:nth-child(2){
+	margin-top: -4px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #96bf1f;
+	display: inline-block;
+	float: right;
+}
+#div4{
+	border:solid 1px #ccc;
+	padding:10px 10px;
+	text-align: left;
+}
+#div4 h3{
+	color: #96bf1f;
+}
+#div4 span{
+	color: #ccc;
+}
+#div4 a{
+	margin-left: 50%;
+	width: 50px;
+	height: auto;
+	padding:5px 5px;
+	background-color: #ccc;
+}
+#div5>span{
+	text-align: left;
+}
+.show{
+	display: block;
+}
+.none{
+	display: none;
+}
+#div2,#div6{
+	display: none;
+}

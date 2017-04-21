@@ -1,0 +1,96 @@
+﻿html{
+	font-size: 18px;
+}
+#smnav ul.ulstyle li{
+	float: left;
+}
+#smnav ul.ulstyle li a{
+	color: #96bf1f;
+}
+#smnav ul.ulstyle li a:hover{
+	text-decoration: underline;
+}
+#xsnav{
+	margin-top: 2%;
+}
+#xsnav ul li{
+	float:left;
+	width: 90px;
+	height: 26px;
+	line-height: 26px;
+	border:1px solid #96bf1f;
+	border-radius: 5px;
+	font-size: 16px;	
+}
+#xsnav ul li:hover{
+	color:#fff;
+	background-color: #96bf1f;
+}
+.def{
+	font-family: "微软雅黑";
+	color:#fff;
+	background-color: #96bf1f;
+}
+.on{
+	background-color: #fff;
+	color: #000;
+}
+#snav{
+	text-align: left;
+	}
+	
+#spb1{
+	margin-left:3%;
+	color: #96bf1f;
+	font-size: 24px;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-right: #96bf1f solid 2px;
+
+}
+#all{
+	text-align: left;
+	background-color: #eee;
+	border-top: 2px solid #96bf1f;
+	border-bottom: 2px solid #96bf1f;
+	padding: 5px;
+}
+#snav span{
+	margin:8px;
+	display: inline-block;
+	width: 40px;
+	background-color: #96bf1f;
+	text-align: center;
+	color: #fff;
+}
+.shushu{
+	margin-left: 60px;
+	font-size: 30px;
+	color: #96bf1f;
+}
+.shushu1{
+	margin-left: 170px;
+	font-size: 30px;
+	color: #96bf1f;
+}
+#snav a{
+	margin:8px;
+}
+div.shu{
+	padding: 0;
+	margin:0;
+	text-align: left;
+	height: auto;
+}
+.bor{
+	width: 216px;
+	height: 216px;
+	border:2px solid #ccc;
+}
+img.bor:hover{
+	border:2px solid #96bf1f;
+}
+div.row div{
+	margin-bottom:20px; 
+}

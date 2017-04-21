@@ -1,0 +1,80 @@
+.tab_row9 .g1{
+	margin-bottom: 10px;
+	display: block;
+	font-size: 20px;
+	text-align: left;
+	float: left;	
+}
+.tab_row9 .g2{
+	margin-bottom: 10px;
+	display: block;
+	font-size: 14px;
+	text-align: left;
+	float: left;	
+	padding-left: 20px;
+}
+#font1 p{
+	font-family: "微软雅黑";
+	margin-bottom: 20px;
+	text-indent: 2em;
+	color: #333;
+}
+
+
+/*联系我们部分CSS*/
+#tab2 .lxwm_banner img{
+	width: 1450px;
+	margin-left: -20px;
+	margin-top: -20px;
+}
+#tab2 #lxfs{
+	text-align: left;
+}
+#tab2 #lxfs .gs_address {
+	margin-bottom: 30px;
+}
+#tab2 #lxfs .gs_address span{
+	font-size: 20px;
+	color: #333333;
+	display: block;
+	margin-bottom: 20px;
+}
+#tab2 #lxfs .gs_address p{
+	font-size: 14px;
+	color: #333333;
+}
+/*国外营销部*/
+#tab2 #lxfs .gs_yxb {
+	margin-bottom: 30px;
+}
+#tab2 #lxfs .gs_yxb span{
+	font-size: 20px;
+	color: #333333;
+	display: block;
+	margin-bottom: 20px;
+}
+#tab2 #lxfs .gs_yxb p{
+	font-size: 14px;
+	color: #333333;
+}
+/*国内营销部*/
+#tab2 #lxfs .gs_gnyxb {
+	margin-bottom: 30px;
+}
+#tab2 #lxfs .gs_gnyxb span{
+	font-size: 20px;
+	color: #333333;
+	display: block;
+	margin-bottom: 20px;
+}
+#tab2 #lxfs .gs_gnyxb p{
+	font-size: 14px;
+	color: #333333;
+}
+/*服务热线*/
+#tab2 #lxfs .gs_fwrx {
+	margin-bottom: 30px;
+}
+#tab2 #lxfs .gs_fwrx p{
+	font-size: 14px;
+	color: #333333;
